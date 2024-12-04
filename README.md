@@ -1,4 +1,4 @@
-# :rocket: This project is related to IBM Applied Data Science Capstone course which is a part of IBM Data Science Professional Certificate
+# :rocket: This project is associated with IBM Applied Data Science Capstone course which is a part of IBM Data Science Professional Certificate
 This Capstone is the 10th (final) course in [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) specialization, and it actually summarizes in the form of project all materials that have been learned during this specialization.
 ## :page_facing_up: Project Background
 SpaceX is the most successful company of the commercial space 
